@@ -1,0 +1,54 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Level/LevelTileSet.tres" type="TileSet" id=1]
+
+[node name="Level1" type="Node" index="0"]
+
+[node name="Camera2D" type="Camera2D" parent="." index="0"]
+
+position = Vector2( 880, 730 )
+anchor_mode = 1
+rotating = false
+current = true
+zoom = Vector2( 2, 2 )
+limit_left = -10000000
+limit_top = -10000000
+limit_right = 10000000
+limit_bottom = 10000000
+limit_smoothed = false
+drag_margin_h_enabled = true
+drag_margin_v_enabled = true
+smoothing_enabled = false
+smoothing_speed = 5.0
+offset_v = 0.0
+offset_h = 0.0
+drag_margin_left = 0.2
+drag_margin_top = 0.2
+drag_margin_right = 0.2
+drag_margin_bottom = 0.2
+editor_draw_screen = true
+editor_draw_limits = false
+editor_draw_drag_margin = false
+
+[node name="TileMap" type="TileMap" parent="." index="1"]
+
+mode = 0
+tile_set = ExtResource( 1 )
+cell_size = Vector2( 128, 125 )
+cell_quadrant_size = 1
+cell_custom_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+cell_half_offset = 2
+cell_tile_origin = 0
+cell_y_sort = false
+cell_clip_uv = false
+collision_use_kinematic = false
+collision_friction = 1.0
+collision_bounce = 0.0
+collision_layer = 1
+collision_mask = 1
+occluder_light_mask = 1
+format = 1
+tile_data = PoolIntArray( 393216, 2, 0, 393217, 2, 0, 393218, 2, 0, 393219, 2, 0, 393221, 1, 0, 393222, 1, 0, 393223, 1, 0, 393224, 1, 0, 393227, 0, 0, 393228, 0, 0, 393229, 0, 0, 393230, 0, 0, 458752, 6, 0, 458753, 6, 0, 458754, 6, 0, 458755, 3, 0, 458757, 4, 0, 458758, 7, 0, 458759, 7, 0, 458760, 7, 0, 458763, 5, 0, 458764, 8, 0, 458765, 8, 0, 458766, 8, 0, 524288, 6, 0, 524289, 6, 0, 524290, 6, 0, 524291, 3, 0, 524293, 4, 0, 524294, 7, 0, 524295, 7, 0, 524296, 7, 0, 524299, 5, 0, 524300, 8, 0, 524301, 8, 0, 524302, 8, 0 )
+_sections_unfolded = [ "Cell" ]
+
+
