@@ -1,12 +1,18 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Level/LevelTileSet.tres" type="TileSet" id=1]
+[ext_resource path="res://Character/Player/Player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Level/LevelTileSet.tres" type="TileSet" id=2]
 
-[node name="Level1" type="Node" index="0"]
+[node name="Level1" type="Node"]
 
-[node name="Camera2D" type="Camera2D" parent="." index="0"]
+[node name="Player" parent="." index="0" instance=ExtResource( 1 )]
 
-position = Vector2( 880, 730 )
+position = Vector2( 720, 420 )
+
+[node name="Camera2D" type="Camera2D" parent="." index="1"]
+
+position = Vector2( 677.993, 482.288 )
+scale = Vector2( -1.30885, 1 )
 anchor_mode = 1
 rotating = false
 current = true
@@ -30,10 +36,10 @@ editor_draw_screen = true
 editor_draw_limits = false
 editor_draw_drag_margin = false
 
-[node name="TileMap" type="TileMap" parent="." index="1"]
+[node name="TileMap" type="TileMap" parent="." index="2"]
 
 mode = 0
-tile_set = ExtResource( 1 )
+tile_set = ExtResource( 2 )
 cell_size = Vector2( 128, 125 )
 cell_quadrant_size = 1
 cell_custom_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
@@ -48,7 +54,7 @@ collision_layer = 1
 collision_mask = 1
 occluder_light_mask = 1
 format = 1
-tile_data = PoolIntArray( 393216, 2, 0, 393217, 2, 0, 393218, 2, 0, 393219, 2, 0, 393221, 1, 0, 393222, 1, 0, 393223, 1, 0, 393224, 1, 0, 393227, 0, 0, 393228, 0, 0, 393229, 0, 0, 393230, 0, 0, 458752, 6, 0, 458753, 6, 0, 458754, 6, 0, 458755, 3, 0, 458757, 4, 0, 458758, 7, 0, 458759, 7, 0, 458760, 7, 0, 458763, 5, 0, 458764, 8, 0, 458765, 8, 0, 458766, 8, 0, 524288, 6, 0, 524289, 6, 0, 524290, 6, 0, 524291, 3, 0, 524293, 4, 0, 524294, 7, 0, 524295, 7, 0, 524296, 7, 0, 524299, 5, 0, 524300, 8, 0, 524301, 8, 0, 524302, 8, 0 )
+tile_data = PoolIntArray( 327683, 0, 0, 327684, 0, 0, 327685, 0, 0, 327686, 3, 0, 327687, 3, 0, 327688, 3, 0 )
 _sections_unfolded = [ "Cell" ]
 
 
