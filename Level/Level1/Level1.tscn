@@ -1,22 +1,29 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Character/Player/Player.tscn" type="PackedScene" id=1]
-[ext_resource path="res://Level/LevelTileSet.tres" type="TileSet" id=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+
+custom_solver_bias = 0.0
+extents = Vector2( 680, 50 )
 
 [node name="Level1" type="Node"]
 
 [node name="Player" parent="." index="0" instance=ExtResource( 1 )]
 
-position = Vector2( 720, 420 )
+position = Vector2( 656, 912 )
+collision_layer = 2
+collision_mask = 2
+_sections_unfolded = [ "Collision", "collision" ]
 
 [node name="Camera2D" type="Camera2D" parent="." index="1"]
 
-position = Vector2( 677.993, 482.288 )
+position = Vector2( 793.234, 552.414 )
 scale = Vector2( -1.30885, 1 )
 anchor_mode = 1
 rotating = false
 current = true
-zoom = Vector2( 2, 2 )
+zoom = Vector2( 3, 3 )
 limit_left = -10000000
 limit_top = -10000000
 limit_right = 10000000
@@ -36,25 +43,21 @@ editor_draw_screen = true
 editor_draw_limits = false
 editor_draw_drag_margin = false
 
-[node name="TileMap" type="TileMap" parent="." index="2"]
+[node name="StaticBody2D" type="StaticBody2D" parent="." index="2"]
 
-mode = 0
-tile_set = ExtResource( 2 )
-cell_size = Vector2( 128, 125 )
-cell_quadrant_size = 1
-cell_custom_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
-cell_half_offset = 2
-cell_tile_origin = 0
-cell_y_sort = false
-cell_clip_uv = false
-collision_use_kinematic = false
-collision_friction = 1.0
-collision_bounce = 0.0
-collision_layer = 1
-collision_mask = 1
-occluder_light_mask = 1
-format = 1
-tile_data = PoolIntArray( 327683, 0, 0, 327684, 0, 0, 327685, 0, 0, 327686, 3, 0, 327687, 3, 0, 327688, 3, 0 )
-_sections_unfolded = [ "Cell" ]
+editor/display_folded = true
+input_pickable = false
+collision_layer = 2
+collision_mask = 2
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+_sections_unfolded = [ "Collision" ]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" index="0"]
+
+position = Vector2( 670, 1100 )
+shape = SubResource( 1 )
 
 

@@ -29,24 +29,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-663.71863"
-     inkscape:cy="-196.13391"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="860.79973"
+     inkscape:cy="-12.533508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      showguides="false"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-others="false">
     <inkscape:grid
        type="xygrid"
@@ -1104,274 +1104,6 @@
        height="102.87"
        width="156.21001" />
     <g
-       id="g11646"
-       transform="translate(-24.017754,2.4954757)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         transform="rotate(8.145851)"
-         y="186.31674"
-         x="20.727116"
-         height="8.9334841"
-         width="1.3096207"
-         id="rect11484"
-         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.11666679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path11490"
-         d="m -6.703122,194.9678 -14.86913,-2.07973 -3.107704,-4.11841 3.511212,-2.64952 15.494462,2.1672 z"
-         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         inkscape:transform-center-y="0.036982746"
-         inkscape:transform-center-x="-0.028626733"
-         transform="matrix(-0.12382905,0.99230357,-0.99158911,-0.12942581,0,0)"
-         y="-28.762484"
-         x="190.33987"
-         height="10.451367"
-         width="1.5384808"
-         id="rect11484-2"
-         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.48142958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g11638"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       transform="translate(0.91882342,0.15962099)"
-       style="fill:#752749;fill-opacity:1">
-      <g
-         transform="rotate(-114.87573,-37.469247,195.43204)"
-         id="g11421-6"
-         style="fill:#752749;fill-opacity:1">
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -46.521211,198.94445 2.916756,1.26813 -3.761522,6.42284 -1.115228,-0.48488 z"
-           id="path11079-0-9"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -43.672788,200.2783 -2.579687,2.66237 -1.141016,3.6711 z"
-           id="path11409-2"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(-114.87573,-38.766928,195.78858)"
-         id="g11425-7"
-         style="fill:#752749;fill-opacity:1">
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -50.174666,207.84983 1.273442,2.4246 2.164815,1.4092 0.715052,-0.62188 -1.670267,-3.37513 -1.698598,-0.75001 z"
-           id="path11111-0"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -47.740756,207.71971 0.04961,1.38906 1.653646,1.95131 z"
-           id="path11411-4"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(-114.87573,-38.497167,196.78392)"
-         id="g11429-1"
-         style="fill:#752749;fill-opacity:1">
-        <rect
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.47607407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect3544-6-6-3-5"
-           width="3.2278962"
-           height="2.5008581"
-           x="199.09421"
-           y="-82.058014"
-           transform="rotate(123.64912)" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -43.788543,210.03482 -0.214974,0.0165 0.578776,0.59531 0.959115,0.33073 z"
-           id="path11417-4"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <rect
-       style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.83394414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3544-66"
-       width="7.1499615"
-       height="3.4644148"
-       x="115.20943"
-       y="161.22476"
-       transform="matrix(-0.88834549,0.45917566,0.45917566,0.88834549,0,0)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="54.861622"
-       inkscape:export-ydpi="54.861622" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43548694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3542-6"
-       width="4.6117845"
-       height="4.4239006"
-       x="-34.047623"
-       y="204.46658"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -31.781368,208.85538 2.38538,-0.0234 0.514494,5.82314 -0.608039,1.75395 -1.941045,0.1637 -1.075758,-1.75395 z"
-       id="path11334-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -31.314579,214.40614 -1.145919,2.97003 1.216078,8.37222 2.151518,-8.32545 -0.958829,-3.0168 z"
-       id="path11336-7"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -33.884773,208.88129 2.385381,-0.0234 0.514493,5.82314 -0.608039,1.75395 -1.941045,0.1637 -1.075758,-1.75395 z"
-       id="path11334"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -33.277424,214.32457 -1.145919,2.97003 1.216078,8.37222 2.151518,-8.32545 -0.958829,-3.0168 z"
-       id="path11336"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <g
-       id="g11650"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       transform="translate(0.23386084,-0.07015826)">
-      <rect
-         y="198.6424"
-         x="-35.062832"
-         height="6.0101767"
-         width="6.2654305"
-         id="rect3542"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59163934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path11514"
-         d="m -33.512552,198.79286 4.729427,5.82084 v -5.77123 z"
-         style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g1332"
-       transform="translate(18.983854,-9.4588543)">
-      <g
-         inkscape:export-ydpi="54.861622"
-         inkscape:export-xdpi="54.861622"
-         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-         transform="translate(-17.543189,9.5315153)"
-         id="g11368">
-        <path
-           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -32.791798,197.31828 -0.446484,1.32292 2.513542,0.0165 -0.429948,-1.27331 z"
-           id="path11210"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -32.781445,197.38703 1.087454,1.25115 0.970523,0.0292 -0.321558,-0.91205 z"
-           id="path11214"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path1325"
-         d="m -50.677645,206.85839 -0.619731,-2.20999 1.672104,-1.21607 2.818024,0.8302 -0.374177,2.91157 -0.865285,0.45603 z"
-         style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1309"
-         d="m -47.151757,204.45232 -1.240556,-0.43249 -1.160883,3.30056 -0.07967,-1.65028 -0.1821,-1.25194 -0.637348,2.42421 -0.159338,-0.52354 -0.01138,2.27625 -0.307295,1.04707 -0.261767,-1.54785 -0.751162,1.87791 -0.07967,-1.00155 -1.12674,1.47955 -0.09105,-1.63889 -1.84376,1.72995 1.01293,-2.20796 -1.718566,0.20486 2.299007,-1.34299 -2.230718,-0.0228 1.85514,-0.84221 -2.207958,0.51216 2.617682,-2.43558 -1.650279,0.29591 2.116909,-1.71857 -1.434036,-0.88774 3.038789,0.22763 -0.84221,-0.61458 3.004643,0.4211 -0.1821,-0.51216 c 0,0 1.729948,0.44387 1.729948,0.51216 0,0.0683 0.773922,1.34298 0.773922,1.34298 l 0.216243,1.01293 z"
-         style="fill:#e9595c;fill-opacity:1;stroke:none;stroke-width:0.2575278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g11540"
-       transform="translate(9.0295255,-0.00670697)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         transform="rotate(27.333927)"
-         y="195.10303"
-         x="51.325867"
-         height="3.4644148"
-         width="7.1499615"
-         id="rect3544"
-         style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.83394414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path11516"
-         d="m -45.502437,199.98104 1.978919,-1.14253 3.966488,2.29006 0.325324,2.1135 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18520834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g11440"
-       transform="translate(12.017152,1.3123744)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <g
-         id="g11421">
-        <path
-           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -46.521211,198.94445 2.916756,1.26813 -3.761522,6.42284 -1.115228,-0.48488 z"
-           id="path11079-0"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -43.672788,200.2783 -2.579687,2.66237 -1.141016,3.6711 z"
-           id="path11409"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="translate(1.5200955,-1.683798)"
-         id="g11425">
-        <path
-           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -50.174666,207.84983 1.273442,2.4246 2.164815,1.4092 0.715052,-0.62188 -1.670267,-3.37513 -1.698598,-0.75001 z"
-           id="path11111"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -47.740756,207.71971 0.04961,1.38906 1.653646,1.95131 z"
-           id="path11411"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="translate(0.23386084,-2.8531022)"
-         id="g11429">
-        <rect
-           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.47607407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect3544-6-6-3"
-           width="3.2278962"
-           height="2.5008581"
-           x="199.09421"
-           y="-82.058014"
-           transform="rotate(123.64912)" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -43.788543,210.03482 -0.214974,0.0165 0.578776,0.59531 0.959115,0.33073 z"
-           id="path11417"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <path
-       style="fill:#d2b4a7;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -29.44308,204.68348 -1.426551,0.0117 1.403164,4.13933 z"
-       id="path11652"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="54.861622"
-       inkscape:export-ydpi="54.861622" />
-    <g
        id="g2424-1"
        inkscape:export-filename="C:\Users\cont1\Documents\GitHub\AGBIC2018\Level\Level1\Ground.png"
        inkscape:export-xdpi="200"
@@ -1433,40 +1165,42 @@
          style="fill:#cdde87;fill-opacity:1;stroke:none;stroke-width:0.04792235px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       id="g1799"
-       transform="rotate(31.332819,-49.669902,337.35106)">
+       id="g11646-3"
+       transform="rotate(-174.62752,-55.151129,283.25662)"
+       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         transform="rotate(8.145851)"
+         y="186.31674"
+         x="20.727116"
+         height="8.9334841"
+         width="1.3096207"
+         id="rect11484-5"
+         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.11666679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11490-0"
+         d="m -6.703122,194.9678 -14.86913,-2.07973 -3.107704,-4.11841 3.511212,-2.64952 15.494462,2.1672 z"
+         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         inkscape:transform-center-y="0.036982746"
+         inkscape:transform-center-x="-0.028626733"
+         transform="matrix(-0.12382905,0.99230357,-0.99158911,-0.12942581,0,0)"
+         y="-28.762484"
+         x="190.33987"
+         height="10.451367"
+         width="1.5384808"
+         id="rect11484-2-6"
+         style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.48142958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5054"
+       transform="matrix(3.1461469,0,0,3.1461469,457.46228,-786.2939)"
+       inkscape:export-xdpi="52.844723"
+       inkscape:export-ydpi="52.844723">
       <g
-         inkscape:export-ydpi="200"
-         inkscape:export-xdpi="200"
-         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-         transform="rotate(154.03966,-32.481121,261.59611)"
-         id="g11646-3">
-        <rect
-           style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.11666679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect11484-5"
-           width="1.3096207"
-           height="8.9334841"
-           x="20.727116"
-           y="186.31674"
-           transform="rotate(8.145851)" />
-        <path
-           style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -6.703122,194.9678 -14.86913,-2.07973 -3.107704,-4.11841 3.511212,-2.64952 15.494462,2.1672 z"
-           id="path11490-0"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="fill:#7b85b2;fill-opacity:1;stroke:none;stroke-width:2.48142958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect11484-2-6"
-           width="1.5384808"
-           height="10.451367"
-           x="190.33987"
-           y="-28.762484"
-           transform="matrix(-0.12382905,0.99230357,-0.99158911,-0.12942581,0,0)"
-           inkscape:transform-center-x="-0.028626733"
-           inkscape:transform-center-y="0.036982746" />
-      </g>
-      <g
-         transform="rotate(-102.16273,9.4257892,270.44357)"
+         transform="rotate(-25.829911,223.40702,428.34283)"
          id="g11421-6-8"
          style="fill:#752749;fill-opacity:1">
         <path
@@ -1481,9 +1215,9 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         inkscape:transform-center-y="-0.14347472"
-         inkscape:transform-center-x="-2.3126495"
-         transform="rotate(-55.557161,80.108056,266.19445)"
+         inkscape:transform-center-y="0.21474584"
+         inkscape:transform-center-x="-0.0080991941"
+         transform="rotate(37.353743,-277.19182,177.66921)"
          id="g11425-7-5"
          style="fill:#752749;fill-opacity:1">
         <path
@@ -1498,7 +1232,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="rotate(24.097657,-338.08565,293.15968)"
+         transform="rotate(55.430476,-199.68475,213.27618)"
          id="g11429-1-8"
          style="fill:#752749;fill-opacity:1">
         <rect
@@ -1515,135 +1249,121 @@
            id="path11417-4-1"
            inkscape:connector-curvature="0" />
       </g>
-    </g>
-    <rect
-       style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.83394414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3544-66-5"
-       width="7.1499615"
-       height="3.4644148"
-       x="195.35158"
-       y="274.81854"
-       transform="matrix(-0.8883455,0.45917565,0.45917565,0.8883455,0,0)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="54.861622"
-       inkscape:export-ydpi="54.861622" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43548691;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3542-6-1"
-       width="4.6117845"
-       height="4.4239006"
-       x="-53.082039"
-       y="342.17642"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -50.815783,346.56523 2.38538,-0.0234 0.514494,5.82314 -0.608039,1.75395 -1.941045,0.1637 -1.075758,-1.75395 z"
-       id="path11334-9-3"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -50.348994,352.11599 -1.145919,2.97003 1.216078,8.37222 2.151518,-8.32545 -0.958829,-3.0168 z"
-       id="path11336-7-4"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -52.919188,346.59114 2.385381,-0.0234 0.514493,5.82314 -0.608039,1.75395 -1.941045,0.1637 -1.075758,-1.75395 z"
-       id="path11334-99"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <path
-       style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -52.311839,352.03442 -1.145919,2.97003 1.216078,8.37222 2.151518,-8.32545 -0.958829,-3.0168 z"
-       id="path11336-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <g
-       id="g11650-3"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       transform="translate(-18.800554,137.6397)">
       <rect
-         y="198.6424"
-         x="-35.062832"
-         height="6.0101767"
-         width="6.2654305"
-         id="rect3542-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59163934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path11514-5"
-         d="m -33.512552,198.79286 4.729427,5.82084 v -5.77123 z"
-         style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g1332-7"
-       transform="translate(-0.05056173,128.251)">
-      <g
          inkscape:export-ydpi="54.861622"
          inkscape:export-xdpi="54.861622"
          inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-         transform="translate(-17.543189,9.5315153)"
-         id="g11368-1">
-        <path
-           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -32.791798,197.31828 -0.446484,1.32292 2.513542,0.0165 -0.429948,-1.27331 z"
-           id="path11210-6"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -32.781445,197.38703 1.087454,1.25115 0.970523,0.0292 -0.321558,-0.91205 z"
-           id="path11214-8"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path1325-6"
-         d="m -50.677645,206.85839 -0.619731,-2.20999 1.672104,-1.21607 2.818024,0.8302 -0.374177,2.91157 -0.865285,0.45603 z"
-         style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1309-2"
-         d="m -47.151757,204.45232 -1.240556,-0.43249 -1.160883,3.30056 -0.07967,-1.65028 -0.1821,-1.25194 -0.637348,2.42421 -0.159338,-0.52354 -0.01138,2.27625 -0.307295,1.04707 -0.261767,-1.54785 -0.751162,1.87791 -0.07967,-1.00155 -1.12674,1.47955 -0.09105,-1.63889 -1.84376,1.72995 1.01293,-2.20796 -1.718566,0.20486 2.299007,-1.34299 -2.230718,-0.0228 1.85514,-0.84221 -2.207958,0.51216 2.617682,-2.43558 -1.650279,0.29591 2.116909,-1.71857 -1.434036,-0.88774 3.038789,0.22763 -0.84221,-0.61458 3.004643,0.4211 -0.1821,-0.51216 c 0,0 1.729948,0.44387 1.729948,0.51216 0,0.0683 0.773922,1.34298 0.773922,1.34298 l 0.216243,1.01293 z"
-         style="fill:#e9595c;fill-opacity:1;stroke:none;stroke-width:0.2575278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g11540-4"
-       transform="translate(-10.004891,137.70315)"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         transform="rotate(27.333927)"
-         y="195.10303"
-         x="51.325867"
+         transform="matrix(-0.99997302,-0.0073458,-0.0073458,0.99997302,0,0)"
+         y="350.71555"
+         x="77.898293"
          height="3.4644148"
          width="7.1499615"
-         id="rect3544-7"
+         id="rect3544-66-5"
          style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.83394414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
          inkscape:connector-curvature="0"
-         id="path11516-2"
-         d="m -45.502437,199.98104 1.978919,-1.14253 3.966488,2.29006 0.325324,2.1135 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18520834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g1775"
-       transform="translate(-13.713076,-0.92829392)">
+         id="path11334-9-3"
+         d="m -106.65381,339.4581 2.38538,-0.0234 0.51449,5.82314 -0.60804,1.75395 -1.94104,0.1637 -1.07576,-1.75395 z"
+         style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+         inkscape:connector-curvature="0"
+         id="path11336-7-4"
+         d="m -89.333845,351.01107 -2.970035,-1.14592 -8.37222,1.21608 8.32545,2.15152 3.016805,-0.95883 z"
+         style="fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+         inkscape:connector-curvature="0"
+         id="path11334-99"
+         d="m -101.75988,339.42164 2.385376,-0.0234 0.51449,5.82314 -0.60804,1.75395 -1.941036,0.1637 -1.07576,-1.75395 z"
+         style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+         inkscape:connector-curvature="0"
+         id="path11336-1"
+         d="m -101.39807,351.04316 -2.97003,-1.14593 -8.37222,1.21609 8.32545,2.15152 3.0168,-0.95883 z"
+         style="fill:#ac9393;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
-         transform="translate(5.2370442,139.95767)"
+         transform="translate(-85.551574,151.26142)"
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+         id="g11650-3">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59163934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3542-8"
+           width="6.2654305"
+           height="6.0101767"
+           x="-35.062832"
+           y="198.6424" />
+        <path
+           style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -33.512552,198.79286 4.729427,5.82084 v -5.77123 z"
+           id="path11514-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(-41.267485,137.70852)"
+         id="g1332-7">
+        <g
+           id="g11368-1"
+           transform="translate(-17.543189,9.5315153)"
+           inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+           inkscape:export-xdpi="54.861622"
+           inkscape:export-ydpi="54.861622">
+          <path
+             inkscape:connector-curvature="0"
+             id="path11210-6"
+             d="m -32.791798,197.31828 -0.446484,1.32292 2.513542,0.0165 -0.429948,-1.27331 z"
+             style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11214-8"
+             d="m -32.781445,197.38703 1.087454,1.25115 0.970523,0.0292 -0.321558,-0.91205 z"
+             style="fill:#752749;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -50.677645,206.85839 -0.619731,-2.20999 1.672104,-1.21607 2.818024,0.8302 -0.374177,2.91157 -0.865285,0.45603 z"
+           id="path1325-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e9595c;fill-opacity:1;stroke:none;stroke-width:0.2575278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -47.151757,204.45232 -1.240556,-0.43249 -1.160883,3.30056 -0.07967,-1.65028 -0.1821,-1.25194 -0.637348,2.42421 -0.159338,-0.52354 -0.01138,2.27625 -0.307295,1.04707 -0.261767,-1.54785 -0.751162,1.87791 -0.07967,-1.00155 -1.12674,1.47955 -0.09105,-1.63889 -1.84376,1.72995 1.01293,-2.20796 -1.718566,0.20486 2.299007,-1.34299 -2.230718,-0.0228 1.85514,-0.84221 -2.207958,0.51216 2.617682,-2.43558 -1.650279,0.29591 2.116909,-1.71857 -1.434036,-0.88774 3.038789,0.22763 -0.84221,-0.61458 3.004643,0.4211 -0.1821,-0.51216 c 0,0 1.729948,0.44387 1.729948,0.51216 0,0.0683 0.773922,1.34298 0.773922,1.34298 l 0.216243,1.01293 z"
+           id="path1309-2"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+         transform="rotate(-27.985402,219.84591,446.11261)"
+         id="g11540-4">
+        <rect
+           style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.83394414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3544-7"
+           width="7.1499615"
+           height="3.4644148"
+           x="51.325867"
+           y="195.10303"
+           transform="rotate(27.333927)" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18520834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -45.502437,199.98104 1.978919,-1.14253 3.966488,2.29006 0.325324,2.1135 z"
+           id="path11516-2"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="rotate(-23.910777,243.7031,467.54445)"
          id="g11421-9">
         <path
            style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1657,7 +1377,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(6.7571397,138.27387)"
+         transform="rotate(45,-246.97337,182.35916)"
          id="g11425-0">
         <path
            style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1671,7 +1391,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(5.470905,137.10457)"
+         transform="rotate(-32.651931,137.70401,409.21272)"
          id="g11429-14">
         <rect
            style="fill:#a66b58;fill-opacity:1;stroke:none;stroke-width:0.47607407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1687,15 +1407,29 @@
            id="path11417-49"
            inkscape:connector-curvature="0" />
       </g>
+      <g
+         transform="translate(8.5172227,4.2556308)"
+         id="g1311">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43548691;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3542-6-1"
+           width="4.6117845"
+           height="4.4239006"
+           x="-94.35704"
+           y="335.16498"
+           inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -89.752495,335.38187 -1.426551,0.0117 1.403164,4.13933 z"
+           id="path11652-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
+           inkscape:export-xdpi="54.861622"
+           inkscape:export-ydpi="54.861622" />
+      </g>
     </g>
-    <path
-       style="fill:#d2b4a7;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -48.477495,342.39333 -1.426551,0.0117 1.403164,4.13933 z"
-       id="path11652-2"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\cont1\Documents\GamePics\AGBIC\Personagem2.png"
-       inkscape:export-xdpi="54.861622"
-       inkscape:export-ydpi="54.861622" />
     <g
        id="g2424-1-1"
        inkscape:export-filename="C:\Users\cont1\Documents\GitHub\AGBIC2018\Level\Level1\Ground.png"

@@ -1,10 +1,10 @@
 extends Node
 
 func start():
-	pass
+	owner.can_move = true
 
 func update(delta):
-	if owner.dir != 0:
+	if owner.dir != Vector2(0,0):
 		exit()
 
 func exit():
