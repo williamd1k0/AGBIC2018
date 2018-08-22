@@ -1,16 +1,19 @@
 extends Node
 
+var state = ""
+
 func start():
-	pass
+	owner.move_tipe = 0
+	owner.anim = "Move"
+	owner.anim_speed = 8
 
 func update(delta):
-	owner.motion.x = owner.dir.x * owner.speed
-	
-	if owner.is_on_floor():
-		owner.motion.y = -owner.jump_speed * owner.dir.y
-
-	if owner.motion == Vector2(0,0):
+	if owner.dir == Vector2(0,0) && owner.is_on_floor():
+		state =  "Idle"
+		exit()
+	if owner.motion.y > 20:
+		state =  "Fall"
 		exit()
 
 func exit():
-	owner.change_state("Idle")
+	owner.change_state(state)

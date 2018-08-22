@@ -1,16 +1,18 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://Character/Player/Player.gd" type="Script" id=1]
-[ext_resource path="res://Character/Player/Control.gd" type="Script" id=2]
-[ext_resource path="res://Character/Player/Idle.gd" type="Script" id=3]
-[ext_resource path="res://Character/Player/Move.gd" type="Script" id=4]
-[ext_resource path="res://Character/Player/Attack1.gd" type="Script" id=5]
+[ext_resource path="res://Character/Player/Animations/Animation.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Character/Player/Control.gd" type="Script" id=3]
+[ext_resource path="res://Character/Player/Idle.gd" type="Script" id=4]
+[ext_resource path="res://Character/Player/Move.gd" type="Script" id=5]
+[ext_resource path="res://Character/Player/Jump.gd" type="Script" id=6]
+[ext_resource path="res://Character/Player/Fall.gd" type="Script" id=7]
+[ext_resource path="res://Character/Player/Attack1.gd" type="Script" id=8]
 
-[sub_resource type="CapsuleShape2D" id=1]
+[sub_resource type="RectangleShape2D" id=1]
 
 custom_solver_bias = 0.0
-radius = 17.0702
-height = 64.0
+extents = Vector2( 17.6326, 113.42 )
 
 [node name="Player" type="KinematicBody2D" index="0"]
 
@@ -20,36 +22,56 @@ collision_mask = 1
 collision/safe_margin = 0.08
 script = ExtResource( 1 )
 _sections_unfolded = [ "collision" ]
+speed = 400
+jump_speed = 400
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="0"]
+[node name="Sprite" type="Sprite" parent="." index="0"]
 
+_sections_unfolded = [ "Offset" ]
+
+[node name="Animation" parent="Sprite" index="0" instance=ExtResource( 2 )]
+
+scale = Vector2( 0.3, 0.3 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="1"]
+
+position = Vector2( 2.01199, 77.1863 )
 shape = SubResource( 1 )
 _sections_unfolded = [ "Transform" ]
 
-[node name="PlayerControl" type="Node" parent="." index="1"]
-
-script = ExtResource( 2 )
-
-[node name="State" type="Node" parent="." index="2"]
-
-[node name="Idle" type="Node" parent="State" index="0"]
+[node name="PlayerControl" type="Node" parent="." index="2"]
 
 script = ExtResource( 3 )
 
-[node name="Move" type="Node" parent="State" index="1"]
+[node name="State" type="Node" parent="." index="3"]
+
+[node name="Idle" type="Node" parent="State" index="0"]
 
 script = ExtResource( 4 )
 
-[node name="Dead" type="Node" parent="State" index="2"]
-
-[node name="Attack1" type="Node" parent="State" index="3"]
+[node name="Move" type="Node" parent="State" index="1"]
 
 script = ExtResource( 5 )
 
-[node name="Attack2" type="Node" parent="State" index="4"]
+[node name="Jump" type="Node" parent="State" index="2"]
 
-[node name="Attack3" type="Node" parent="State" index="5"]
+script = ExtResource( 6 )
 
-[node name="Attack4" type="Node" parent="State" index="6"]
+[node name="Fall" type="Node" parent="State" index="3"]
+
+script = ExtResource( 7 )
+
+[node name="Dead" type="Node" parent="State" index="4"]
+
+[node name="Attack1" type="Node" parent="State" index="5"]
+
+script = ExtResource( 8 )
+
+[node name="Attack2" type="Node" parent="State" index="6"]
+
+[node name="Attack3" type="Node" parent="State" index="7"]
+
+[node name="Attack4" type="Node" parent="State" index="8"]
 
 

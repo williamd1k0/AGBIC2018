@@ -1,7 +1,9 @@
 extends Node
 
 func start():
-	owner.can_move = true
+	owner.move_tipe = 0
+	owner.anim = "Idle"
+	owner.anim_speed = 0.8
 
 func update(delta):
 	if owner.dir != Vector2(0,0):

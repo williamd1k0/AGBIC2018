@@ -1,12 +1,15 @@
 extends Node
 
+var timer
+
 func start():
-	owner.can_move = false
-	pass
+	owner.move_tipe = 1
+	timer = Tools.create_timer(1)
 
 func update(delta):
-	yield(Tools.create_timer(1 * delta),"timeout")
-	exit()
+	var wr = weakref(timer)
+	if !wr.get_ref():
+		exit()
 
 func exit():
 	owner.change_state("Idle")
