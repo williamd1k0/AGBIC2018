@@ -1,27 +1,15 @@
 extends Node
 
-var timer
-var timer2
-
 func start():
 	Tools.remote_call("HitBox","set_dmg",10)
 	owner.move_tipe = 3
 	owner.anim = "Attack1"
-	owner.anim_speed = 18
-	timer = Tools.create_timer(.3)
-	timer2 = Tools.create_timer(.4)
+	owner.anim_speed = 8
+	owner.anim_player.connect("animation_finished",self,"exit")
 
 func update(delta):
-	var wr = weakref(timer)
-	var wr2 = weakref(timer2)
+	pass
 
-	if !wr.get_ref():
-		
-		owner.anim = "Attack2"
-		owner.anim_speed = 18
-
-	if !wr2.get_ref():
-			exit()
-
-func exit():
+func exit(n):
+	owner.anim_player.disconnect("animation_finished",self,"exit")
 	owner.change_state("Idle")
