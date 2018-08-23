@@ -6,7 +6,7 @@ func start():
 	owner.anim_speed = 0.8
 
 func update(delta):
-	if owner.dir != Vector2(0,0):
+	if owner.dir != Vector2(0,0) || owner.motion.y != 20 :
 		exit()
 
 func exit():
