@@ -28,7 +28,7 @@ jump_speed = 800
 
 [node name="Sprite" type="Sprite" parent="." index="0"]
 
-_sections_unfolded = [ "Offset" ]
+_sections_unfolded = [ "Offset", "Transform" ]
 
 [node name="Animation" parent="Sprite" index="0" instance=ExtResource( 2 )]
 
