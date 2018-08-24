@@ -2,7 +2,7 @@
 
 [ext_resource path="res://Character/Player/Animations/Personagem_Test.png" type="Texture" id=1]
 [ext_resource path="res://Character/Player/Animations/Area2D.gd" type="Script" id=2]
-[ext_resource path="res://Character/Player/Animations/oraoraora.png" type="Texture" id=3]
+[ext_resource path="res://Character/Player/Animations/dododo.png" type="Texture" id=3]
 
 [sub_resource type="RectangleShape2D" id=1]
 
